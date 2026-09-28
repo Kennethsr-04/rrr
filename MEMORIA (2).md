@@ -72,7 +72,7 @@ Se abre una preview de la app sin ejecutarla
 
 **B3 — padding vs background**
 
-_(sin responder)_
+el background sirve para el fondo y el padding para el relleno interno
 
 **Reflexión 1 — val vs var**
 
